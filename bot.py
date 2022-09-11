@@ -1,7 +1,7 @@
 import telebot
 import sqlite3
 
-with open('data/TOKEN_test.txt') as t:
+with open('data/TOKEN.txt') as t:
     TOKEN = t.read()
 
 
